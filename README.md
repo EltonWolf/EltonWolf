@@ -1,4 +1,4 @@
-### Hi there 👋, I'm @EltonWolf
+### Hey! Some quick bits about me:
 
 I'm passionate about all things Urban! Currently, I'm focused on enhancing my knowledge of Google Earth Engine and remote sensing!
 
